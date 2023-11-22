@@ -7,7 +7,7 @@ import { OpenAIClient } from "@azure/openai";
 import React, { useRef } from 'react';
 
 const key = new AzureKeyCredential("<insert key here>");
-const client = new OpenAIClient("https://imd-openai.openai.azure.com", key);
+const client = new OpenAIClient("https://<link>.openai.azure.com", key);
 
 export default function App() {
   const [html, setHtml] = useState();
