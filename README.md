@@ -1,4 +1,4 @@
-# A javascript only app that renders GPT responses
+# A "javascript only" App that renders respones of Open AI
 
 and provides the returned code.
 
