@@ -1,4 +1,4 @@
-# A React App that renders respones of Open AI
+# A React App that renders responses of Open AI
 
 and provides the returned code.
 
